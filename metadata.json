@@ -1,0 +1,7 @@
+{
+  "name": "Love AI Analyzer v5.0 Ultimate Pro",
+  "description": "سامانه فوق‌پیشرفته سنجش خلوص عاطفی، رفتارشناسی، قطب‌نمای دلبستگی ECR، تعمیرگاه تعارض گاتمن، شبیه‌ساز بحران و ماتریس ارزش‌های رابطه با Gemini 3.7",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
